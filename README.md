@@ -3,7 +3,7 @@
 
 I'm a test developer, with over five years of experience in software test and  more than three years of experience in web development.
 
-- 🔭 I’m currently working on **An automation test platform - Chaos, based on Soybean Admin + Vue3 + Playwright + Python**
+- 🔭 I’m currently working on **An automation test platform - Chaos, based on Soybean Admin + Vue3 + Playwright + Python + FastAPI**
 - 🌱 I'm good at writing clean and high quality standard code.
 - 📫 How to reach me: qq(904925905)、gmail(miraclewzg@gmail.com).
 
