@@ -19,5 +19,7 @@ I'm a test developer, with over five years of experience in software test and  m
 
 **recommend repositories**
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=honghuangdc&repo=soybean-admin)](https://github.com/honghuangdc/soybean-admin)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=microsoft&repo=playwright-python)](https://github.com/microsoft/playwright-python)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=honghuangdc&repo=soybean-admin)](https://github.com/honghuangdc/soybean-admin)
+
