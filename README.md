@@ -13,7 +13,7 @@ I'm a test developer, with over five years of experience in software test and  m
 - Vue、React、FastAPI、Django.
 - Ionic、Uniapp、React Native、Celery.
 - Vite、Webpack、supervisor、Nginx.
-- AntV、ECharts、Charts.js、d3、threejs.
+- AntV、ECharts、Charts.js.
 
 
 
